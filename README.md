@@ -36,6 +36,6 @@ Efficient data retrieval and presentation using Spring Boot and Thymeleaf.
 Improved usability with search, filtering, and pagination features.
 In summary, this Spring Boot project combines the strengths of Thymeleaf and Bootstrap to create a web application that elegantly displays a list of items as cards. The application's responsive design and user-friendly features make it a valuable tool for presenting and interacting with various types of content.
 
-
+![card-page - Google Chrome 12-08-2023 20_47_56](https://github.com/sacrop/Spring-Boot-Item-Display-with-Thymeleaf-and-Bootstrap/assets/126325161/218e16a9-2304-4847-b33a-3e1063f1d385)
 
 
